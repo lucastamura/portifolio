@@ -1,8 +1,17 @@
 <section id="card" class="flex col al-center">
   <div class="infos flex col al-center">
-    <img src="{{img}}" />
-    <h4>{{ title }}</h4>
-    <h5>{{ description }}</h5>
+    <div class="flex js-ar full-w al-center">
+      <img class="logo-projeto" src="{{ img }}" />
+      <h4>{{ title }}</h4>
+    </div>
+    <h6>{{ description }}</h6>
   </div>
-  <a [href]="link" target="_blank">Ver mais</a>
+  <div class="footer flex js-bet full-w al-center">
+    <div class="logos-dev flex">
+      <div *ngFor="let item of skill">
+        <img src="{{ item }}" alt="" />
+      </div>
+    </div>
+    <a [href]="link" target="_blank">Ver mais</a>
+  </div>
 </section>

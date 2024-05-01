@@ -19,6 +19,10 @@
   justify-content: space-between;
 }
 
+.js-ar {
+  justify-content: space-arounds;
+}
+
 .col {
   flex-direction: column;
 }
@@ -26,10 +30,11 @@
 .full-w {
   width: 100%;
 }
+
 .full-h {
   height: 100%;
 }
 
-.red{
+.red {
   color: var(--color1);
 }

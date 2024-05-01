@@ -64,10 +64,11 @@
       </p>
       <p-carousel
         [value]="products"
-        [numVisible]="3"
-        [numScroll]="3"
+        [numVisible]="2"
+        [numScroll]="1"
         [circular]="false"
         [responsiveOptions]="responsiveOptions"
+        class="full-w"
       >
         <ng-template let-product pTemplate="item" class="flex js-center">
           <app-card-projects

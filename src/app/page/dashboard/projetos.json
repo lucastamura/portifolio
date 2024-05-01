@@ -4,27 +4,113 @@
     "title": "SustainPlas",
     "description": "Plataforma de gestão de matérias primas recicladas. Projeto desenvolvido em parceria com a Unipac no programa InovaSkill.",
     "link": "https://lucas10tamura.bubbleapps.io/version-test",
-    "skill": "SustainPlas"
+    "skill": [
+      "assets/icon-bubble.svg",
+      "assets/icon-figma.svg"
+    ]
   },
   {
     "img": "https://raw.githubusercontent.com/lucastamura/portifolio/main/src/assets/logos-projetos/logo-fundacao.svg",
     "title": "Portal FSNT",
     "description": "Portal de gerenciamento de eventos, convidados e locação de espaços. Desenvolvido ao longo do programa  Synapse.",
     "link": "SustainPlas",
-    "skill": "SustainPlas"
+    "skill": [
+      "assets/icon-angular.svg",
+      "assets/icon-figma.svg"
+    ]
   },
   {
     "img": "https://raw.githubusercontent.com/lucastamura/portifolio/main/src/assets/logos-projetos/logo-precocerto.svg",
     "title": "Preço Certo ",
     "description": "Projeto acadêmico idealizado para restaurantes e comerciantes de alimentos.Foco na precificação dos produtos.",
-    "link": "SustainPlas",
-    "skill": "SustainPlas"
+    "link": "https://lucastamura.github.io/PrecoCerto-Front/index.html",
+    "skill": [
+      "assets/icon-html.svg",
+      "assets/icon-css.svg",
+      "assets/icon-js.svg"
+    ]
   },
   {
     "img": "https://raw.githubusercontent.com/lucastamura/portifolio/main/src/assets/logos-projetos/logo-coelhosolucoes.svg",
     "title": "Coelho Soluções",
-    "description": "Projeto acadêmico idealizado para restaurantes e comerciantes de alimentos.Foco na precificação dos produtos.",
-    "link": "SustainPlas",
-    "skill": "SustainPlas"
+    "description": "Leanding page de divulgação para uma empresa empreiteira.",
+    "link": "https://coelhosolucoes.netlify.app",
+    "skill": [
+      "assets/icon-angular.svg",
+      "assets/icon-figma.svg"
+    ]
+  },
+  {
+    "img": "assets/logo-pokemon.svg",
+    "title": "Pokedex",
+    "description": "Idealização de uma pokedex com o consumo de uma API de pokémons.",
+    "link": "https://lucastamura.github.io/Pokedex/",
+    "skill": [
+      "assets/icon-html.svg",
+      "assets/icon-css.svg",
+      "assets/icon-js.svg"
+    ]
+  },
+  {
+    "img": "assets/logo-book.svg",
+    "title": "Biblioteca",
+    "description": "Projeto acadêmico de um CRUD com SpringBoot.",
+    "link": "https://github.com/lucastamura/BibliotecaSpringJava/tree/main",
+    "skill": [
+      "assets/icon-html.svg",
+      "assets/icon-bootstrap.svg",
+      "assets/icon-java.svg"
+    ]
+  },
+  {
+    "img": "assets/logo-book.svg",
+    "title": "BusKredit",
+    "description": "Projeto acadêmico de uma plataforma para emrpesas de transporte interurbano.",
+    "link": "https://github.com/lucastamura/BibliotecaSpringJava/tree/main",
+    "skill": [
+      "assets/icon-html.svg",
+      "assets/icon-bootstrap.svg",
+      "assets/icon-java.svg"
+    ]
+  },
+  {
+    "img": "assets/logo-guioza.png",
+    "title": "Tamura Culinária",
+    "description": "Leandingpage de um cardápio",
+    "link": "https://cardapiotamura.netlify.app",
+    "skill": [
+      "assets/icon-html.svg",
+      "assets/icon-css.svg",
+      "assets/icon-js.svg"
+    ]
+  },
+  {
+    "img": "assets/logo-clima.svg",
+    "title": "Clima Tempo",
+    "description": "Aplicativo com o consumo de uma APi de clima.",
+    "link": "https://climatempotamura.netlify.app",
+    "skill": [
+      "assets/icon-angular.svg"
+    ]
+  },
+  {
+    "img": "assets/logo-ppl.svg",
+    "title": "Plantas e Peixes",
+    "description": "Leandingpage para o Projeto Plantas e Peixes.",
+    "link": "https://plantaepeixes.netlify.app",
+    "skill": [
+      "assets/icon-angular.svg"
+    ]
+  },
+  {
+    "img": "assets/logo-duck.svg",
+    "title": "Dev Festival",
+    "description": "Página de vendas de ingressos",
+    "link": "https://golden-starlight-4dde36.netlify.app",
+    "skill": [
+      "assets/icon-html.svg",
+      "assets/icon-css.svg",
+      "assets/icon-js.svg"
+    ]
   }
 ]
