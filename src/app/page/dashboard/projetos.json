@@ -1,27 +1,27 @@
 [
   {
-    "img": "logo-sustainplas.svg",
+    "img": "https://raw.githubusercontent.com/lucastamura/portifolio/main/src/assets/logos-projetos/logo-sustainplas.svg",
     "title": "SustainPlas",
     "description": "Plataforma de gestão de matérias primas recicladas. Projeto desenvolvido em parceria com a Unipac no programa InovaSkill.",
     "link": "https://lucas10tamura.bubbleapps.io/version-test",
     "skill": "SustainPlas"
   },
   {
-    "img": "logo-fundacao.svg",
+    "img": "https://raw.githubusercontent.com/lucastamura/portifolio/main/src/assets/logos-projetos/logo-fundacao.svg",
     "title": "Portal FSNT",
     "description": "Portal de gerenciamento de eventos, convidados e locação de espaços. Desenvolvido ao longo do programa  Synapse.",
     "link": "SustainPlas",
     "skill": "SustainPlas"
   },
   {
-    "img": "logo-precocerto.svg",
+    "img": "https://raw.githubusercontent.com/lucastamura/portifolio/main/src/assets/logos-projetos/logo-precocerto.svg",
     "title": "Preço Certo ",
     "description": "Projeto acadêmico idealizado para restaurantes e comerciantes de alimentos.Foco na precificação dos produtos.",
     "link": "SustainPlas",
     "skill": "SustainPlas"
   },
   {
-    "img": "logo-coelhosolucoes.svg",
+    "img": "https://raw.githubusercontent.com/lucastamura/portifolio/main/src/assets/logos-projetos/logo-coelhosolucoes.svg",
     "title": "Coelho Soluções",
     "description": "Projeto acadêmico idealizado para restaurantes e comerciantes de alimentos.Foco na precificação dos produtos.",
     "link": "SustainPlas",
