@@ -1,0 +1,35 @@
+.flex {
+  display: flex;
+}
+
+.center {
+  align-items: center;
+  justify-content: center;
+}
+
+.al-center {
+  align-items: center;
+}
+
+.js-center {
+  justify-content: center;
+}
+
+.js-bet {
+  justify-content: space-between;
+}
+
+.col {
+  flex-direction: column;
+}
+
+.full-w {
+  width: 100%;
+}
+.full-h {
+  height: 100%;
+}
+
+.red{
+  color: var(--color1);
+}

@@ -1,0 +1,126 @@
+#body {
+  width: 100vw;
+  background-image: url(../../../assets/background.svg);
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .container {
+    max-width: 1150px;
+    width: 100%;
+
+
+  }
+}
+
+header {
+  height: 80px;
+
+  nav {
+    gap: 48px;
+
+    a {
+      transition: 0.3s;
+    }
+
+    a:hover {
+      color: var(--color1);
+      font-weight: 600;
+      text-decoration: overline;
+    }
+
+    .home-header {
+      color: var(--color1);
+      font-weight: 600;
+      text-decoration: overline;
+    }
+  }
+
+  .button-header {
+    background-color: var(--preto);
+    padding: 10px 24px;
+    font-weight: 700;
+    color: var(--branco);
+    gap: 8px;
+  }
+}
+
+#home {
+  height: 85vh;
+
+  .left {
+    gap: 24px;
+
+    .dot-home {
+      font-size: 200px;
+      color: var(--color1);
+      line-height: 1px;
+    }
+
+    .icons-social {
+      gap: 48px;
+    }
+  }
+}
+
+#sobremim {
+  margin: 120px 0px;
+
+  p {
+    max-width: 875px;
+  }
+}
+
+#projetos {
+  margin: 120px 0px;
+
+  .cards {
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 48px;
+  }
+}
+
+#experiencias {
+  margin: 120px 0px;
+
+
+  .logos {
+    gap: 80px;
+    margin-top: 50px;
+
+    img {
+      height: 80px;
+    }
+
+    .unipac {
+      height: 50px;
+    }
+  }
+
+}
+
+#contatos {
+  margin-bottom: 120px;
+  gap: 80px;
+
+  p {
+    max-width: 875px;
+  }
+
+  .icon-tamura {
+    height: 80px;
+  }
+
+  .icons-social {
+    gap: 48px;
+  }
+}
+
+
+
+.cards-carrocel {
+  height: 700px;
+  margin-bottom: 20px;
+}

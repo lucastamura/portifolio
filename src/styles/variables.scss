@@ -1,0 +1,63 @@
+:root {
+  --color1: #C22412;
+  --color2: #242A40;
+  --color3: #FFBD4A;
+  --color4: #01A54F;
+  --cinza1: #33303E;
+  --cinza2: #4E4B59;
+  --cinza3: #5F5C6B;
+  --cinza4: #7A7786;
+  --cinza5: #C6C5CE;
+  --cinza6: #F1F0F5;
+  --branco: #FFFFFF;
+  --preto: #000000;
+}
+
+h1 {
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 90px;
+  /* 137.5% */
+}
+
+h2 {
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100px;
+  /* 208.333% */
+}
+
+h4 {
+  color: #C22412;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+
+h6 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  /* 150% */
+}
+
+p {
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
