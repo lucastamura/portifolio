@@ -2,9 +2,8 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
-  { path: '', pathMatch: 'full', redirectTo: 'portifolio' },
   {
-    path: 'portifolio',
+    path: '',
     loadChildren: () =>
       import('./page/dashboard/dashboard.module').then(
         (m) => m.DashboardModule
